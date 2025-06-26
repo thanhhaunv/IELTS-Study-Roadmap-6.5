@@ -1378,57 +1378,240 @@
 
 ---
 
+# 📚 Phase 1 Detailed Plan: Week 12 (Final Push for Band 6.0)
+
+## 🔄 Overview
+- **Goal**: Achieve consistent band 6.0 in practice tests, ensure ~28-30/40 in Listening/Reading, improve Writing/Speaking coherence.
+- **Study Time**: ~4 hours/day (1h Duolingo, 1h Anki, 2h IELTS practice), 6 days/week.
+- **Resources**:
+  - Cambridge IELTS 12-14 (PDF from ieltsliz.com or Telegram “IELTS Free Materials”).
+  - Apps: Duolingo, Anki, IELTS Practice & IELTS Test, Grammarly, Elsa Speak, BBC Learning English.
+  - Websites: IELTS Liz, IELTS Simon, E2 IELTS (YouTube).
+- **Focus**: Simulate exam conditions, refine weak skills, use advanced vocabulary (e.g., *mitigate*, *sustainable*), complex grammar (e.g., *although*, passive voice).
+- **Sunday**: Full practice test (~3h) or light review (Duolingo 30m, Anki 30m).
+
+---
+
 ## 🗓️ Week 12: Final Push for Band 6.0
-- **Goal**: Achieve band 6.0 in practice test, ensure consistency (~28-30/40 in Listening/Reading).
-- **Notes**: Simulate exam conditions, refine Writing/Speaking coherence.
 
 ### Day 1 (Monday): Listening Section 1 + Writing Task 1 (Process Diagram)
 #### Tasks
-1. **Duolingo (1h)**: 3 lessons on grammar (e.g., passive voice).
-2. **Anki (1h)**: Review 10 Environment words, add 5 new ones.
+1. **Duolingo (1h)**: 3 lessons on grammar (e.g., passive voice, sequence words).
+2. **Anki (1h)**: Review 10 Environment words (e.g., mitigate, sustainable), add 5 new ones.
 3. **IELTS Practice (2h)**:
    - **Listening (20m)**: Cambridge 14 – Test 2 – Section 1 (form completion).
-   - **Writing (1h 40m)**: Task 1 (~150 words, process diagram).
+   - **Writing (1h 40m)**: Task 1 (~150 words, process diagram, e.g., “Recycling process”).
 
 #### Rules
-- **Listening**: Same as Week 5, Day 1.
-- **Writing Task 1**: 3 paragraphs, describe steps in order.
+- **Listening (Section 1)**:
+  - Format: 10 questions, form/note completion.
+  - Steps: Preview questions (1-2 min), underline keywords, write exact answers, check spelling.
+  - Scoring: Aim for 8-9/10 (~28/40 for full test).
+- **Writing Task 1**:
+  - Format: 150-word report, 3 paragraphs (Introduction, Overview, Details).
+  - Steps: Plan 5 min, write 20 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.0 (clear sequence, accurate grammar).
 
 #### Tips & Tricks
-- **Listening**: Predict answers, check spelling.
-- **Writing**: Use passive voice (e.g., “Water is filtered”), sequence words (e.g., “first”, “then”).
+- **Listening**: Predict answer types (e.g., name, number), focus on synonyms (e.g., *cost* → *price*).
+- **Writing**: Use passive voice (e.g., “Plastic is sorted”), sequence words (e.g., “first”, “then”), check coherence.
 
 #### Vocabulary & Grammar
 - **Vocabulary (Environment)**: mitigate, sustainable, ecosystem, pollution, conservation, emissions, renewable, climate, resource, biodiversity.
   - Example: “The process of recycling conserves resources.”
 - **Grammar**:
   - Passive voice: “Waste is processed in factories.”
-  - *First/Then*: “First, waste is collected; then, it is recycled.”
-  - Practice: Write 5 sentences.
+  - Sequence words: “First, waste is collected; then, it is sorted.”
+  - Practice: Write 5 sentences using passive voice and sequence words, check with Grammarly.
 
 #### Resources
 - Cambridge 14 – Test 2 (Listening Section 1, Writing Task 1).
-- Apps: Duolingo, Anki, Grammarly.
-- Websites: IELTS Liz (Task 1).
+- Apps: Duolingo (grammar), Anki (flashcards), Grammarly.
+- Websites: IELTS Liz (Task 1), E2 IELTS (Writing Task 1).
 
 ---
 
 ### Day 2 (Tuesday): Reading Passage 1 + Speaking Part 1 & 2 (Health)
 #### Tasks
-1. **Duolingo (1h)**: 3 lessons on reading (health-related texts).
-2. **Anki (1h)**: Review 10 Health words, add 5 new ones.
+1. **Duolingo (1h)**: 3 lessons on reading comprehension (health-related texts).
+2. **Anki (1h)**: Review 10 Health words (e.g., obesity, prevention), add 5 new ones.
 3. **IELTS Practice (2h)**:
    - **Reading (1h)**: Cambridge 14 – Test 2 – Passage 1 (True/False/Not Given).
-   - **Speaking (1h)**: Part 1 (Health), Part 2 (Cue card: “Describe a healthy habit you have”).
+   - **Speaking (1h)**: Part 1 (Health, 4-5 questions), Part 2 (Cue card: “Describe a healthy habit you have”).
 
 #### Rules
-- **Reading**: Same as Week 5, Day 2.
-- **Speaking**: Same as Week 5, Day 2.
+- **Reading (Passage 1)**:
+  - Format: ~13 questions, True/False/Not Given, sentence completion.
+  - Steps: Skim passage (3 min), underline keywords, match answers, check “Not Given” carefully.
+  - Scoring: Aim for 9-10/13.
+- **Speaking (Part 1 & 2)**:
+  - Format: Part 1 (short answers), Part 2 (2-min talk).
+  - Steps: Give clear answers (Part 1), prepare cue card notes (1 min), speak fluently, use Elsa Speak for pronunciation.
+  - Scoring: Aim for band 6.0 (coherent, some complex vocabulary).
 
 #### Tips & Tricks
-- **Reading**: Skim for main ideas, check synonyms.
-- **Speaking**: Use examples (e.g., “I exercise because it keeps me healthy”), practice fluency.
+- **Reading**: Skim for main ideas, use synonyms (e.g., *healthy* → *fit*), avoid overthinking “Not Given”.
+- **Speaking**: Use connectors (e.g., “because”), give examples (e.g., “I exercise daily because it improves my fitness”), practice fluency with Elsa Speak.
 
 #### Vocabulary & Grammar
 - **Vocabulary (Health)**: obesity, prevention, nutrition, lifestyle, fitness, treatment, diet, exercise, health, illness.
-  - Example: “
+  - Example: “Regular exercise is a healthy habit that improves fitness.”
+- **Grammar**:
+  - *Because*: “I stay healthy because I exercise daily.”
+  - Present simple: “I follow a balanced diet.”
+  - Practice: Write 5 sentences, record Speaking Part 2 with Elsa Speak.
+
+#### Resources
+- Cambridge 14 – Test 2 (Reading Passage 1, Speaking Part 1 & 2).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 1), E2 IELTS (Reading).
+
+---
+
+### Day 3 (Wednesday): Listening Section 2 + Writing Task 2 (Education)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on complex sentences (e.g., *although*, *unless*).
+2. **Anki (1h)**: Review 10 Education words (e.g., curriculum, academic), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 2 – Section 2 (note completion).
+   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Education should focus on skills rather than knowledge. Discuss.”).
+
+#### Rules
+- **Listening (Section 2)**:
+  - Format: 10 questions, note/map completion, monologue.
+  - Steps: Preview questions, underline keywords, write short answers, check spelling.
+  - Scoring: Aim for 8-9/10.
+- **Writing Task 2**:
+  - Format: 250-word essay, 4 paragraphs (Introduction, Argument 1, Argument 2, Conclusion).
+  - Steps: Plan 5 min, write 30 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.0 (coherent ideas, complex sentences).
+
+#### Tips & Tricks
+- **Listening**: Predict answer types (e.g., place, time), focus on keywords, check distractors.
+- **Writing**: Balance both sides (e.g., “Skills are practical, but knowledge is foundational”), use examples, check coherence with Grammarly.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Education)**: curriculum, academic, qualification, learning, knowledge, student, teacher, course, exam, skill.
+  - Example: “Education should prioritize skills to prepare students for jobs.”
+- **Grammar**:
+  - *Although*: “Although knowledge is important, skills are more practical.”
+  - Passive voice: “Practical skills are taught in modern schools.”
+  - Practice: Write 5 sentences using *although* and passive voice.
+
+#### Resources
+- Cambridge 14 – Test 2 (Listening Section 2, Writing Task 2).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Writing Task 2), E2 IELTS (Listening).
+
+---
+
+### Day 4 (Thursday): Reading Passage 2 + Speaking Part 3 (Technology)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on vocabulary (technology-related).
+2. **Anki (1h)**: Review 10 Technology words (e.g., innovation, digital), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 2 – Passage 2 (Matching Information).
+   - **Speaking (1h)**: Part 3 (Technology, e.g., “How has technology changed education?”).
+
+#### Rules
+- **Reading (Passage 2)**:
+  - Format: ~13 questions, Matching Information, sentence completion.
+  - Steps: Skim passage (3 min), locate information, check synonyms, match carefully.
+  - Scoring: Aim for 9-10/13.
+- **Speaking (Part 3)**:
+  - Format: 4-5 discussion questions, 2-3 sentence answers.
+  - Steps: Use connectors (e.g., *for example*), give reasons/examples, practice with Elsa Speak.
+  - Scoring: Aim for band 6.0 (coherent, some complex vocabulary).
+
+#### Tips & Tricks
+- **Reading**: Scan for specific information, use paragraph headings, avoid overthinking.
+- **Speaking**: Use examples (e.g., “Technology enables online learning”), practice fluency, check pronunciation with Elsa Speak.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Technology)**: innovation, digital, software, device, internet, gadget, technology, network, system, automation.
+  - Example: “Technology has revolutionized education by enabling online courses.”
+- **Grammar**:
+  - *For example*: “Technology helps education, for example, it provides access to resources.”
+  - Present perfect: “Technology has changed how students learn.”
+  - Practice: Write 5 sentences, record Speaking Part 3 with Elsa Speak.
+
+#### Resources
+- Cambridge 14 – Test 2 (Reading Passage 2, Speaking Part 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: E2 IELTS (Speaking Part 3), IELTS Simon (Reading).
+
+---
+
+### Day 5 (Friday): Listening Section 3 + Writing Task 1 (Bar Chart)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on grammar (e.g., comparatives, superlatives).
+2. **Anki (1h)**: Review 10 Work words (e.g., profession, productivity), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 2 – Section 3 (multiple choice).
+   - **Writing (1h 40m)**: Task 1 (~150 words, bar chart).
+
+#### Rules
+- **Listening (Section 3)**:
+  - Format: 10 questions, multiple choice, academic discussion.
+  - Steps: Preview options, listen for synonyms, eliminate wrong answers, check spelling.
+  - Scoring: Aim for 8-9/10.
+- **Writing Task 1**:
+  - Format: 150-word report, 3 paragraphs (Introduction, Overview, Details).
+  - Steps: Plan 5 min, write 20 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.0 (clear trends, accurate grammar).
+
+#### Tips & Tricks
+- **Listening**: Focus on distractors, note keywords, confirm answers during pauses.
+- **Writing**: Use phrases like “shows a significant increase”, compare data clearly, check with Grammarly.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Work)**: profession, productivity, workplace, career, salary, teamwork, skill, employee, employer, balance.
+  - Example: “The bar chart shows that remote work increases productivity.”
+- **Grammar**:
+  - Comparatives: “More employees prefer remote work than office work.”
+  - *Because*: “Productivity rises because of flexible hours.”
+  - Practice: Write 5 sentences using comparatives and *because*.
+
+#### Resources
+- Cambridge 14 – Test 2 (Listening Section 3, Writing Task 1).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Task 1), E2 IELTS (Listening).
+
+---
+
+### Day 6 (Saturday): Reading Passage 3 + Speaking Part 2 & 3 (Travel)
+#### Tasks
+1. **Duolingo (1h)**: Review Week 12 lessons (focus on travel-related vocabulary).
+2. **Anki (1h)**: Review 10 Travel words (e.g., tourism, destination), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 2 – Passage 3 (sentence completion).
+   - **Speaking (1h)**: Part 2 (Cue card: “Describe a trip you want to take”), Part 3 (Travel, e.g., “Why do people travel?”).
+
+#### Rules
+- **Reading (Passage 3)**:
+  - Format: ~13 questions, sentence completion, summary completion.
+  - Steps: Skim passage (3 min), locate answers, use exact words, check word limits.
+  - Scoring: Aim for 9-10/13.
+- **Speaking (Part 2 & 3)**:
+  - Format: Part 2 (2-min talk), Part 3 (discussion, 4-5 questions).
+  - Steps: Prepare cue card notes (1 min), speak fluently, use examples, practice with Elsa Speak.
+  - Scoring: Aim for band 6.0 (coherent, varied vocabulary).
+
+#### Tips & Tricks
+- **Reading**: Locate answers sequentially, check synonyms, avoid overthinking.
+- **Speaking**: Use future tense for cue card (e.g., “I will visit…”), give examples in Part 3 (e.g., “People travel to experience new cultures”), practice fluency.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Travel)**: tourism, destination, culture, journey, adventure, transport, sightseeing, hotel, vacation, itinerary.
+  - Example: “I want to take a trip to explore new cultures and destinations.”
+- **Grammar**:
+  - Future tense: “I will visit a historical site next year.”
+  - *For example*: “Travel is exciting, for example, it teaches cultural traditions.”
+  - Practice: Write 5 sentences, record Speaking Part 2 & 3 with Elsa Speak.
+
+#### Resources
+- Cambridge 14 – Test 2 (Reading Passage 3, Speaking Part 2 & 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 2), E2 IELTS (Reading).
+
+---
