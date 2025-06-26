@@ -1188,165 +1188,302 @@
 
 ---
 
-## 🗓️ Week 19: Exam Readiness & Weak Skill Focus
+## 🗓️ Week 19: Exam Readiness & Weak Skill Focus (Continued)
 - **Goal**: Achieve ~33-34/40 in Listening/Reading, ensure band 6.5 in Writing/Speaking.
 - **Notes**: Simulate exam timing strictly, refine weak areas.
 
-### Day 1 (Monday): Listening Section 1 + Writing Task 2 (Education)
+### Day 6 (Saturday): Reading Passage 3 + Speaking Part 2 & 3 (Travel)
 #### Tasks
-1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., mixed conditionals).
-2. **Anki (1h)**: Review 10 Education words, add 5 new ones.
+1. **Duolingo (1h)**: Review Week 19 lessons (focus on travel-related vocabulary).
+2. **Anki (1h)**: Review 10 Travel words (e.g., itinerary, destination), add 5 new ones.
 3. **IELTS Practice (2h)**:
-   - **Listening (20m)**: Cambridge 14 – Test 5 – Section 1 (form completion).
-   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Education should be accessible to all. Discuss.”).
+   - **Reading (1h)**: Cambridge 14 – Test 5 – Passage 3 (sentence completion).
+   - **Speaking (1h)**: Part 2 (Cue card: “Describe a trip you enjoyed”), Part 3 (Travel, e.g., “Why do people travel abroad?”).
 
 #### Rules
-- **Listening**: Same as Week 13, Day 1.
-- **Writing Task 2**: Same as Week 13, Day 1.
+- **Reading (Passage 3)**:
+  - Format: ~13 questions, sentence completion, summary completion.
+  - Steps: Skim passage (3 min), locate answers, use exact words, check word limits.
+  - Scoring: Aim for 10-11/13.
+- **Speaking (Part 2 & 3)**:
+  - Format: Part 2 (2-min talk), Part 3 (discussion, 4-5 questions).
+  - Steps: Prepare cue card notes (1 min), speak fluently, use advanced vocabulary, practice with Elsa Speak.
+  - Scoring: Aim for band 6.5 (fluent, varied vocabulary, coherent ideas).
 
 #### Tips & Tricks
-- **Listening**: Anticipate synonyms, check spelling.
-- **Writing**: Use advanced vocabulary (e.g., *pedagogy*), balance arguments, check coherence.
+- **Reading**: Locate answers sequentially, check synonyms (e.g., *travel* → *journey*), avoid overthinking.
+- **Speaking**: Use past tense for cue card (e.g., “I visited…”), advanced phrases in Part 3 (e.g., “Travel fosters cultural understanding”), practice fluency with Elsa Speak.
 
 #### Vocabulary & Grammar
-- **Vocabulary (Education)**: pedagogy, curriculum, academic, qualification, skill, learning, knowledge, institution, education, expertise.
-  - Example: “Accessible education fosters social equality.”
+- **Vocabulary (Travel)**: itinerary, destination, culture, journey, adventure, tourism, exploration, heritage, travel, excursion.
+  - Example: “Travel fosters cultural understanding through exploration.”
 - **Grammar**:
-  - Mixed conditional: “If education were accessible, poverty would decrease.”
-  - *Not only...but also*: “Education not only imparts knowledge but also builds skills.”
-  - Practice: Write 5 sentences using mixed conditionals and *not only...but also*.
+  - Past perfect: “I had visited Japan before exploring Europe.”
+  - *For instance*: “Travel is enriching, for instance, it broadens perspectives.”
+  - Practice: Write 5 sentences using past perfect and *for instance*, record Speaking Part 2 & 3 with Elsa Speak.
 
 #### Resources
-- Cambridge 14 – Test 5 (Listening Section 1, Writing Task 2).
-- Apps: Duolingo, Anki, Grammarly.
-- Websites: IELTS Liz (Writing Task 2).
-
----
-
-### Day 2 (Tuesday): Reading Passage 1 + Speaking Part 1 & 2 (Health)
-#### Tasks
-1. **Duolingo (1h)**: 3 lessons on reading (health-related texts).
-2. **Anki (1h)**: Review 10 Health words, add 5 new ones.
-3. **IELTS Practice (2h)**:
-   - **Reading (1h)**: Cambridge 14 – Test 5 – Passage 1 (Matching Headings).
-   - **Speaking (1h)**: Part 1 (Health), Part 2 (Cue card: “Describe a healthy activity you enjoy”).
-
-#### Rules
-- **Reading**: Same as Week 13, Day 2.
-- **Speaking**: Same as Week 13, Day 2.
-
-#### Tips & Tricks
-- **Reading**: Focus on paragraph main ideas, avoid distractors.
-- **Speaking**: Use advanced phrases (e.g., “It’s beneficial because…”), practice fluency.
-
-#### Vocabulary & Grammar
-- **Vocabulary (Health)**: wellness, prevention, nutrition, lifestyle, fitness, healthcare, diet, exercise, obesity, treatment.
-  - Example: “Exercise is a beneficial activity for maintaining wellness.”
-- **Grammar**:
-  - *For instance*: “Healthy activities are vital, for instance, they prevent obesity.”
-  - Present perfect: “I have exercised regularly for years.”
-  - Practice: Write 5 sentences, record Speaking Part 2 with Elsa Speak.
-
-#### Resources
-- Cambridge 14 – Test 5 (Reading Passage 1, Speaking Part 1 & 2).
+- Cambridge 14 – Test 5 (Reading Passage 3, Speaking Part 2 & 3).
 - Apps: Duolingo, Anki, Elsa Speak.
-- Websites: IELTS Simon (Speaking Part 1).
+- Websites: IELTS Simon (Speaking Part 2), E2 IELTS (Reading).
 
 ---
 
-### Day 3 (Wednesday): Listening Section 2 + Writing Task 1 (Line Graph)
+## 🗓️ Week 20: Final Exam Simulation & Polishing
+- **Goal**: Achieve ~33-34/40 in Listening/Reading, solidify band 6.5 in Writing/Speaking.
+- **Notes**: Focus on full-length practice tests, analyze errors, refine weak skills under timed conditions.
+
+### Day 1 (Monday): Listening Section 1 + Writing Task 2 (Globalization)
 #### Tasks
-1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., inversion).
-2. **Anki (1h)**: Review 10 Economy words, add 5 new ones.
+1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., *not only...but also*, mixed conditionals).
+2. **Anki (1h)**: Review 10 Globalization words (e.g., interconnectivity, global trade), add 5 new ones.
 3. **IELTS Practice (2h)**:
-   - **Listening (20m)**: Cambridge 14 – Test 5 – Section 2 (note completion).
-   - **Writing (1h 40m)**: Task 1 (~150 words, line graph).
+   - **Listening (20m)**: Cambridge 14 – Test 6 – Section 1 (form completion).
+   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Globalization benefits outweigh its drawbacks. Discuss.”).
 
 #### Rules
-- **Listening**: Same as Week 13, Day 3.
-- **Writing Task 1**: Same as Week 13, Day 3.
+- **Listening (Section 1)**:
+  - Format: 10 questions, form/note completion.
+  - Steps: Preview questions (1-2 min), underline keywords, write exact answers, check spelling.
+  - Scoring: Aim for 9-10/10 (~33/40 for full test).
+- **Writing Task 2**:
+  - Format: 250-word essay, 4 paragraphs (Introduction, Advantage, Disadvantage, Conclusion).
+  - Steps: Plan 5 min, write 30 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.5 (clear position, varied vocabulary, complex sentences).
 
 #### Tips & Tricks
-- **Listening**: Predict answer types, focus on synonyms.
-- **Writing**: Use advanced phrases (e.g., “demonstrates a sharp increase”), compare trends.
-
-#### Vocabulary & Grammar
-- **Vocabulary (Economy)**: expenditure, revenue, economy, investment, growth, decline, market, profit, budget, trade.
-  - Example: “The line graph demonstrates a sharp increase in investment.”
-- **Grammar**:
-  - Inversion: “Never has the economy grown so rapidly.”
-  - Comparatives: “Investment in technology exceeds other sectors.”
-  - Practice: Write 5 sentences using inversion and comparatives.
-
-#### Resources
-- Cambridge 14 – Test 5 (Listening Section 2, Writing Task 1).
-- Apps: Duolingo, Anki, Grammarly.
-- Websites: IELTS Liz (Task 1).
-
----
-
-### Day 4 (Thursday): Reading Passage 2 + Speaking Part 3 (Globalization)
-#### Tasks
-1. **Duolingo (1h)**: 3 lessons on vocabulary (globalization-related).
-2. **Anki (1h)**: Review 10 Globalization words, add 5 new ones.
-3. **IELTS Practice (2h)**:
-   - **Reading (1h)**: Cambridge 14 – Test 5 – Passage 2 (Matching Information).
-   - **Speaking (1h)**: Part 3 (Globalization, e.g., “How does globalization affect local businesses?”).
-
-#### Rules
-- **Reading**: Same as Week 13, Day 4.
-- **Speaking**: Same as Week 13, Day 4.
-
-#### Tips & Tricks
-- **Reading**: Scan for specific details, use paragraph headings.
-- **Speaking**: Use advanced phrases (e.g., “It’s a double-edged sword”), practice fluency.
+- **Listening**: Anticipate synonyms (e.g., *cost* → *price*), avoid distractors, confirm answers during pauses.
+- **Writing**: Use advanced connectors (e.g., *nevertheless*, *consequently*), balance both sides, check coherence with Grammarly.
 
 #### Vocabulary & Grammar
 - **Vocabulary (Globalization)**: interconnectivity, global trade, economy, culture, integration, multinational, diversity, impact, globalization, collaboration.
-  - Example: “Globalization impacts local businesses by increasing competition.”
+  - Example: “Globalization fosters interconnectivity but may erode cultural diversity.”
 - **Grammar**:
-  - *Consequently*: “Global trade has grown, consequently affecting local markets.”
-  - Present perfect: “Globalization has transformed local economies.”
-  - Practice: Write 5 sentences, record Speaking Part 3 with Elsa Speak.
+  - *Not only...but also*: “Globalization not only boosts economies but also promotes cultural exchange.”
+  - Mixed conditional: “If global trade had been regulated, cultural loss would be minimized.”
+  - Practice: Write 5 sentences using *not only...but also* and mixed conditionals, check with Grammarly.
 
 #### Resources
-- Cambridge 14 – Test 5 (Reading Passage 2, Speaking Part 3).
-- Apps: Duolingo, Anki, Elsa Speak.
-- Websites: E2 IELTS (Speaking Part 3).
+- Cambridge 14 – Test 6 (Listening Section 1, Writing Task 2).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Writing Task 2), E2 IELTS (Listening).
 
 ---
 
-### Day 5 (Friday): Listening Section 3 + Writing Task 2 (Environment)
+### Day 2 (Tuesday): Reading Passage 1 + Speaking Part 1 & 2 (Technology)
 #### Tasks
-1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., mixed conditionals).
-2. **Anki (1h)**: Review 10 Environment words, add 5 new ones.
+1. **Duolingo (1h)**: 3 lessons on reading comprehension (technology-related texts).
+2. **Anki (1h)**: Review 10 Technology words (e.g., innovation, automation), add 5 new ones.
 3. **IELTS Practice (2h)**:
-   - **Listening (20m)**: Cambridge 14 – Test 5 – Section 3 (multiple choice).
-   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Individuals can contribute to environmental protection. Discuss.”).
+   - **Reading (1h)**: Cambridge 14 – Test 6 – Passage 1 (Matching Headings).
+   - **Speaking (1h)**: Part 1 (Technology, 4-5 questions), Part 2 (Cue card: “Describe a technology you can’t live without”).
 
 #### Rules
-- **Listening**: Same as Week 13, Day 5.
-- **Writing Task 2**: Same as Week 13, Day 1.
+- **Reading (Passage 1)**:
+  - Format: ~13 questions, Matching Headings, True/False/Not Given.
+  - Steps: Skim passage (3 min), match headings to paragraphs, check synonyms, confirm “Not Given”.
+  - Scoring: Aim for 11-12/13.
+- **Speaking (Part 1 & 2)**:
+  - Format: Part 1 (short answers), Part 2 (2-min talk).
+  - Steps: Use varied vocabulary, prepare cue card notes (1 min), speak fluently, use Elsa Speak for pronunciation.
+  - Scoring: Aim for band 6.5 (fluent, varied vocabulary, clear ideas).
 
 #### Tips & Tricks
-- **Listening**: Focus on distractors, confirm answers during pauses.
-- **Writing**: Use advanced vocabulary (e.g., *mitigation*), balance arguments, check coherence.
+- **Reading**: Focus on paragraph main ideas, avoid distractors in headings, double-check “Not Given”.
+- **Speaking**: Use advanced phrases (e.g., “It’s indispensable because…”), give examples, practice fluency with Elsa Speak.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Technology)**: innovation, automation, digital, device, connectivity, software, advancement, gadget, system, technology.
+  - Example: “Smartphones are indispensable due to their connectivity and versatility.”
+- **Grammar**:
+  - *For instance*: “Technology is vital, for instance, it enhances communication.”
+  - Present perfect: “I have relied on smartphones for years.”
+  - Practice: Write 5 sentences using *for instance* and present perfect, record Speaking Part 2 with Elsa Speak.
+
+#### Resources
+- Cambridge 14 – Test 6 (Reading Passage 1, Speaking Part 1 & 2).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 1), E2 IELTS (Reading).
+
+---
+
+### Day 3 (Wednesday): Listening Section 2 + Writing Task 1 (Pie Chart)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., inversion, passive voice).
+2. **Anki (1h)**: Review 10 Economy words (e.g., expenditure, revenue), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 6 – Section 2 (note completion).
+   - **Writing (1h 40m)**: Task 1 (~150 words, pie chart).
+
+#### Rules
+- **Listening (Section 2)**:
+  - Format: 10 questions, note/map completion, monologue.
+  - Steps: Preview questions, underline keywords, write concise answers, check spelling.
+  - Scoring: Aim for 9-10/10.
+- **Writing Task 1**:
+  - Format: 150-word report, 3 paragraphs (Introduction, Overview, Details).
+  - Steps: Plan 5 min, write 20 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.5 (clear trends, varied vocabulary, accurate grammar).
+
+#### Tips & Tricks
+- **Listening**: Predict answer types (e.g., number, place), focus on synonyms, avoid distractors.
+- **Writing**: Use advanced phrases (e.g., “accounts for a significant portion”), compare segments clearly, check coherence with Grammarly.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Economy)**: expenditure, revenue, economy, investment, growth, decline, market, profit, budget, trade.
+  - Example: “The pie chart shows that technology accounts for a significant portion of expenditure.”
+- **Grammar**:
+  - Inversion: “Seldom has the market seen such investment.”
+  - Comparatives: “Investment in technology exceeds other sectors.”
+  - Practice: Write 5 sentences using inversion and comparatives, check with Grammarly.
+
+#### Resources
+- Cambridge 14 – Test 6 (Listening Section 2, Writing Task 1).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Task 1), E2 IELTS (Listening).
+
+---
+
+### Day 4 (Thursday): Reading Passage 2 + Speaking Part 3 (Environment)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on vocabulary (environment-related).
+2. **Anki (1h)**: Review 10 Environment words (e.g., sustainability, ecosystem), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 6 – Passage 2 (Matching Information).
+   - **Speaking (1h)**: Part 3 (Environment, e.g., “What can individuals do to protect the environment?”).
+
+#### Rules
+- **Reading (Passage 2)**:
+  - Format: ~13 questions, Matching Information, sentence completion.
+  - Steps: Skim passage (3 min), locate information, check synonyms, match carefully.
+  - Scoring: Aim for 11-12/13.
+- **Speaking (Part 3)**:
+  - Format: 4-5 discussion questions, 2-3 sentence answers.
+  - Steps: Use advanced connectors (e.g., *consequently*, *moreover*), give reasons/examples, practice with Elsa Speak.
+  - Scoring: Aim for band 6.5 (coherent, varied vocabulary, fluent delivery).
+
+#### Tips & Tricks
+- **Reading**: Scan for specific details, use paragraph headings, avoid overthinking.
+- **Speaking**: Use advanced phrases (e.g., “It’s imperative that…”), provide examples (e.g., “Individuals can recycle to reduce waste”), practice fluency with Elsa Speak.
 
 #### Vocabulary & Grammar
 - **Vocabulary (Environment)**: sustainability, ecosystem, conservation, emissions, renewable, pollution, biodiversity, climate, resource, mitigation.
-  - Example: “Individuals can contribute to mitigation through sustainable practices.”
+  - Example: “Individuals can contribute to sustainability by reducing emissions.”
 - **Grammar**:
-  - Mixed conditional: “If individuals had acted earlier, pollution would be lower.”
-  - *Not only...but also*: “Individuals not only recycle but also reduce emissions.”
-  - Practice: Write 5 sentences using mixed conditionals and *not only...but also*.
+  - *Consequently*: “Recycling reduces waste, consequently improving ecosystems.”
+  - Present perfect: “Individuals have adopted sustainable practices recently.”
+  - Practice: Write 5 sentences using *consequently* and present perfect, record Speaking Part 3 with Elsa Speak.
 
 #### Resources
-- Cambridge 14 – Test 5 (Listening Section 3, Writing Task 2).
-- Apps: Duolingo, Anki, Grammarly.
-- Websites: IELTS Liz (Writing Task 2).
+- Cambridge 14 – Test 6 (Reading Passage 2, Speaking Part 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: E2 IELTS (Speaking Part 3), IELTS Simon (Reading).
 
 ---
 
-### Day 6 (Saturday): Reading Passage 3 + Speaking Part 2 & 3 (Travel)
+### Day 5 (Friday): Listening Section 3 + Writing Task 2 (Education)
 #### Tasks
-1. **Duolingo (1
+1. **Duolingo (1h)**: 3 lessons on advanced grammar (e.g., mixed conditionals, *not only...but also*).
+2. **Anki (1h)**: Review 10 Education words (e.g., pedagogy, curriculum), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 6 – Section 3 (multiple choice).
+   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Education should focus on creativity over academic skills. Discuss.”).
+
+#### Rules
+- **Listening (Section 3)**:
+  - Format: 10 questions, multiple choice, academic discussion.
+  - Steps: Preview options, listen for synonyms, eliminate wrong answers, check spelling.
+  - Scoring: Aim for 9-10/10.
+- **Writing Task 2**:
+  - Format: 250-word essay, 4 paragraphs (Introduction, Argument 1, Argument 2, Conclusion).
+  - Steps: Plan 5 min, write 30 min, check with Grammarly 5 min.
+  - Scoring: Aim for band 6.5 (clear position, varied vocabulary, complex sentences).
+
+#### Tips & Tricks
+- **Listening**: Focus on distractors, confirm answers during pauses, note keywords.
+- **Writing**: Use advanced vocabulary (e.g., *pedagogy*, *foster*), balance both sides (e.g., “Creativity sparks innovation, but academics ensure foundational knowledge”), check coherence with Grammarly.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Education)**: pedagogy, curriculum, academic, qualification, skill, learning, knowledge, institution, education, expertise.
+  - Example: “Education should foster creativity to develop innovative skills.”
+- **Grammar**:
+  - Mixed conditional: “If schools had prioritized creativity, students would be more innovative.”
+  - *Not only...but also*: “Education not only builds knowledge but also fosters creativity.”
+  - Practice: Write 5 sentences using mixed conditionals and *not only...but also*, check with Grammarly.
+
+#### Resources
+- Cambridge 14 – Test 6 (Listening Section 3, Writing Task 2).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Writing Task 2), E2 IELTS (Listening).
+
+---
+
+### Day 6 (Saturday): Reading Passage 3 + Speaking Part 2 & 3 (Culture)
+#### Tasks
+1. **Duolingo (1h)**: Review Week 20 lessons (focus on culture-related vocabulary).
+2. **Anki (1h)**: Review 10 Culture words (e.g., heritage, tradition), add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 6 – Passage 3 (sentence completion).
+   - **Speaking (1h)**: Part 2 (Cue card: “Describe a cultural tradition you admire”), Part 3 (Culture, e.g., “How do cultural traditions benefit society?”).
+
+#### Rules
+- **Reading (Passage 3)**:
+  - Format: ~13 questions, sentence completion, summary completion.
+  - Steps: Skim passage (3 min), locate answers, use exact words, check word limits.
+  - Scoring: Aim for 11-12/13.
+- **Speaking (Part 2 & 3)**:
+  - Format: Part 2 (2-min talk), Part 3 (discussion, 4-5 questions).
+  - Steps: Prepare cue card notes (1 min), speak fluently, use advanced vocabulary, practice with Elsa Speak.
+  - Scoring: Aim for band 6.5 (fluent, varied vocabulary, coherent ideas).
+
+#### Tips & Tricks
+- **Reading**: Locate answers sequentially, check synonyms (e.g., *tradition* → *custom*), avoid overthinking.
+- **Speaking**: Use past tense for cue card (e.g., “I experienced…”), advanced phrases in Part 3 (e.g., “Cultural traditions foster social cohesion”), practice fluency with Elsa Speak.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Culture)**: heritage, tradition, festival, custom, identity, diversity, celebration, community, culture, ritual.
+  - Example: “Cultural traditions foster social cohesion and preserve heritage.”
+- **Grammar**:
+  - Past perfect: “I had experienced this tradition before moving abroad.”
+  - *For instance*: “Cultural traditions are vital, for instance, they strengthen community bonds.”
+  - Practice: Write 5 sentences using past perfect and *for instance*, record Speaking Part 2 & 3 with Elsa Speak.
+
+#### Resources
+- Cambridge 14 – Test 6 (Reading Passage 3, Speaking Part 2 & 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 2), E2 IELTS (Reading).
+
+---
+
+## 🗒️ Additional Notes for Week 20
+- **Sunday**: Conduct a full-length IELTS practice test (Cambridge 14 – Test 7, ~3h) under exam conditions (timed, no interruptions). Score and analyze errors:
+  - **Listening/Reading**: Identify question types with mistakes (e.g., multiple choice, Matching Headings), review synonyms/distractors.
+  - **Writing**: Rewrite essays using feedback from Grammarly or peers, focus on coherence and advanced vocabulary.
+  - **Speaking**: Record answers, use Elsa Speak to improve pronunciation and fluency, practice complex sentence structures.
+- **Error Analysis**: Spend 30 min daily reviewing mistakes from practice. Note common errors (e.g., spelling in Listening, coherence in Writing) and adjust strategies.
+- **Weak Skill Focus**: If Listening/Reading scores are below 33/40, prioritize difficult question types (e.g., Matching Information, multiple choice). If Writing/Speaking is below 6.5, focus on advanced vocabulary and complex grammar.
+- **Final Prep**: In the last 2 days, review all Anki flashcards (focus on high-frequency topics: Education, Environment, Technology, Globalization, Culture, Health, Work, Travel) and practice Speaking Part 3 questions with Elsa Speak for fluency.
+
+---
+
+## 🛠️ GitHub Integration (Optional)
+Nếu bạn muốn commit file này vào GitHub hoặc tạo issues cho Week 19 (Day 6) và Week 20 (6 ngày, tổng cộng 7 issues), đây là hướng dẫn:
+1. **Commit File**:
+   - Lưu file `Phase_2_Detailed_Plan.md` vào repository của bạn.
+   - Sử dụng lệnh:
+     ```bash
+     git add Phase_2_Detailed_Plan.md
+     git commit -m "Add Week 19 (Day 6) and Week 20 plan for Phase 2 (Band 6.5+)"
+     git push origin main
+     ```
+2. **Create Issues**:
+   - Tạo 7 issues trên GitHub repository (1 cho Day 6 của Week 19, 6 cho Week 20).
+   - Template cho mỗi issue:
+     - **Title**: “Phase 2 - Week [19/20] - Day [X]: [Skill Focus] Practice”
+     - **Description**: Bao gồm tasks, rules, vocabulary, và resources từ kế hoạch.
+     - **Labels**: Thêm nhãn như `IELTS`, `Practice`, `Week 19`, `Week 20`.
+     - **Assignee**: Gán cho bạn hoặc team members.
+     - **Milestone**: Đặt milestone là “Phase 2 - Band 6.5+”.
+   - Ví dụ:
+     - Issue 1: “Phase 2 - Week 19 - Day 6: Reading & Speaking (Travel) Practice”
+     - Issue 2: “Phase 2 - Week 20 - Day 1: Listening & Writing (Globalization) Practice”
