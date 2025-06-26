@@ -153,7 +153,7 @@
 - **Vocabulary (Health)**: prevention, nutrition, lifestyle, fitness, treatment, diet, exercise, health, illness, wellness.
   - Example: “Governments can improve health by promoting nutrition.”
 - **Grammar**:
-  - *For example*: “Health improves, for example, through exercise.”
+  - *For example*: “Exercise helps, for example, it reduces obesity.”
   - Present simple: “People need better diets.”
   - Practice: Write 5 sentences, record Speaking.
 
@@ -355,7 +355,7 @@
 - **Vocabulary (Environment)**: mitigate, sustainable, ecosystem, pollution, conservation, emissions, renewable, climate, resource, biodiversity.
   - Example: “Individuals can conserve resources to protect the environment.”
 - **Grammar**:
-  - *For example*: “Recycling helps, for example, it reduces waste.”
+  - *For example*: “Conservation helps, for example, it protects ecosystems.”
   - Present simple: “People should protect the environment.”
   - Practice: Write 5 sentences, record Speaking.
 
@@ -1218,3 +1218,217 @@
 
 #### Resources
 - Cambridge 14 – Test 1 (Listening Section 1, Writing Task 2).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Writing Task 2).
+
+---
+
+### Day 2 (Tuesday): Reading Passage 1 + Speaking Part 1 & 2 (Education)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on reading (education-related texts).
+2. **Anki (1h)**: Review 10 Education words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 1 – Passage 1 (True/False/Not Given).
+   - **Speaking (1h)**: Part 1 (Education), Part 2 (Cue card: “Describe a teacher you admire”).
+
+#### Rules
+- **Reading**: Same as Week 5, Day 2.
+- **Speaking**: Same as Week 5, Day 2.
+
+#### Tips & Tricks
+- **Reading**: Skim for main ideas, check synonyms.
+- **Speaking**: Use examples (e.g., “I admire my teacher because she inspires me”), practice fluency.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Education)**: curriculum, academic, qualification, learning, knowledge, student, teacher, course, exam, skill.
+  - Example: “I admire teachers who inspire students to learn.”
+- **Grammar**:
+  - *For example*: “Teachers help, for example, they encourage learning.”
+  - Present simple: “I study at a good school.”
+  - Practice: Write 5 sentences, record Speaking.
+
+#### Resources
+- Cambridge 14 – Test 1 (Reading Passage 1, Speaking Part 1 & 2).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 1).
+
+---
+
+### Day 3 (Wednesday): Listening Section 2 + Writing Task 1 (Line Graph)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on complex sentences.
+2. **Anki (1h)**: Review 10 Technology words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 1 – Section 2 (note completion).
+   - **Writing (1h 40m)**: Task 1 (~150 words, line graph).
+
+#### Rules
+- **Listening**: Same as Week 5, Day 3.
+- **Writing Task 1**: Same as Week 5, Day 3.
+
+#### Tips & Tricks
+- **Listening**: Focus on keywords, predict answer types.
+- **Writing**: Use phrases like “rises steadily”, compare trends clearly.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Technology)**: innovation, digital, software, device, internet, gadget, technology, network, system, automation.
+  - Example: “The line graph shows a rise in technology use.”
+- **Grammar**:
+  - Comparatives: “More people use digital devices now than before.”
+  - *Because*: “Technology is popular because it saves time.”
+  - Practice: Write 5 sentences.
+
+#### Resources
+- Cambridge 14 – Test 1 (Listening Section 2, Writing Task 1).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Task 1).
+
+---
+
+### Day 4 (Thursday): Reading Passage 2 + Speaking Part 3 (Work)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on vocabulary (work-related).
+2. **Anki (1h)**: Review 10 Work words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 1 – Passage 2 (Matching Information).
+   - **Speaking (1h)**: Part 3 (Work, e.g., “How has work changed in recent years?”).
+
+#### Rules
+- **Reading**: Same as Week 5, Day 4.
+- **Speaking**: Same as Week 5, Day 4.
+
+#### Tips & Tricks
+- **Reading**: Scan for specific information, check synonyms.
+- **Speaking**: Use examples (e.g., “Remote work has increased productivity”), practice fluency.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Work)**: profession, productivity, workplace, career, salary, teamwork, skill, employee, employer, balance.
+  - Example: “Remote work has changed the workplace significantly.”
+- **Grammar**:
+  - *For example*: “Work has changed, for example, more people work remotely.”
+  - Present simple: “Employees value flexibility.”
+  - Practice: Write 5 sentences, record Speaking.
+
+#### Resources
+- Cambridge 14 – Test 1 (Reading Passage 2, Speaking Part 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: E2 IELTS (Speaking Part 3).
+
+---
+
+### Day 5 (Friday): Listening Section 3 + Writing Task 2 (Health)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on grammar (e.g., conditionals).
+2. **Anki (1h)**: Review 10 Health words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 1 – Section 3 (multiple choice).
+   - **Writing (1h 40m)**: Task 2 essay (~250 words, topic: “Health education improves society. Discuss.”).
+
+#### Rules
+- **Listening**: Same as Week 5, Day 5.
+- **Writing Task 2**: Same as Week 5, Day 1.
+
+#### Tips & Tricks
+- **Listening**: Eliminate wrong options, focus on synonyms.
+- **Writing**: Use examples (e.g., “Health education reduces obesity”), check coherence.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Health)**: obesity, prevention, nutrition, lifestyle, fitness, treatment, diet, exercise, health, illness.
+  - Example: “Health education reduces obesity by promoting exercise.”
+- **Grammar**:
+  - *If*: “If health education is promoted, society benefits.”
+  - Passive voice: “Diseases are prevented through education.”
+  - Practice: Write 5 sentences.
+
+#### Resources
+- Cambridge 14 – Test 1 (Listening Section 3, Writing Task 2).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Writing Task 2).
+
+---
+
+### Day 6 (Saturday): Reading Passage 3 + Speaking Part 2 & 3 (Travel)
+#### Tasks
+1. **Duolingo (1h)**: Review Week 11 lessons.
+2. **Anki (1h)**: Review 10 Travel words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 1 – Passage 3 (sentence completion).
+   - **Speaking (1h)**: Part 2 (Cue card: “Describe a trip you want to take”), Part 3 (Travel).
+
+#### Rules
+- **Reading**: Same as Week 5, Day 6.
+- **Speaking**: Same as Week 5, Day 6.
+
+#### Tips & Tricks
+- **Reading**: Check word limits, locate answers sequentially.
+- **Speaking**: Use future tense for cue card, give examples in Part 3.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Travel)**: tourism, destination, culture, journey, adventure, transport, sightseeing, hotel, vacation, itinerary.
+  - Example: “I want to take a trip to explore new cultures.”
+- **Grammar**:
+  - Future tense: “I will visit a historical site next year.”
+  - *For example*: “Travel is exciting, for example, it teaches traditions.”
+  - Practice: Write 5 sentences, record Speaking.
+
+#### Resources
+- Cambridge 14 – Test 1 (Reading Passage 3, Speaking Part 2 & 3).
+- Apps: Duolingo, Anki, Elsa Speak.
+- Websites: IELTS Simon (Speaking Part 2).
+
+---
+
+## 🗓️ Week 12: Final Push for Band 6.0
+- **Goal**: Achieve band 6.0 in practice test, ensure consistency (~28-30/40 in Listening/Reading).
+- **Notes**: Simulate exam conditions, refine Writing/Speaking coherence.
+
+### Day 1 (Monday): Listening Section 1 + Writing Task 1 (Process Diagram)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on grammar (e.g., passive voice).
+2. **Anki (1h)**: Review 10 Environment words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Listening (20m)**: Cambridge 14 – Test 2 – Section 1 (form completion).
+   - **Writing (1h 40m)**: Task 1 (~150 words, process diagram).
+
+#### Rules
+- **Listening**: Same as Week 5, Day 1.
+- **Writing Task 1**: 3 paragraphs, describe steps in order.
+
+#### Tips & Tricks
+- **Listening**: Predict answers, check spelling.
+- **Writing**: Use passive voice (e.g., “Water is filtered”), sequence words (e.g., “first”, “then”).
+
+#### Vocabulary & Grammar
+- **Vocabulary (Environment)**: mitigate, sustainable, ecosystem, pollution, conservation, emissions, renewable, climate, resource, biodiversity.
+  - Example: “The process of recycling conserves resources.”
+- **Grammar**:
+  - Passive voice: “Waste is processed in factories.”
+  - *First/Then*: “First, waste is collected; then, it is recycled.”
+  - Practice: Write 5 sentences.
+
+#### Resources
+- Cambridge 14 – Test 2 (Listening Section 1, Writing Task 1).
+- Apps: Duolingo, Anki, Grammarly.
+- Websites: IELTS Liz (Task 1).
+
+---
+
+### Day 2 (Tuesday): Reading Passage 1 + Speaking Part 1 & 2 (Health)
+#### Tasks
+1. **Duolingo (1h)**: 3 lessons on reading (health-related texts).
+2. **Anki (1h)**: Review 10 Health words, add 5 new ones.
+3. **IELTS Practice (2h)**:
+   - **Reading (1h)**: Cambridge 14 – Test 2 – Passage 1 (True/False/Not Given).
+   - **Speaking (1h)**: Part 1 (Health), Part 2 (Cue card: “Describe a healthy habit you have”).
+
+#### Rules
+- **Reading**: Same as Week 5, Day 2.
+- **Speaking**: Same as Week 5, Day 2.
+
+#### Tips & Tricks
+- **Reading**: Skim for main ideas, check synonyms.
+- **Speaking**: Use examples (e.g., “I exercise because it keeps me healthy”), practice fluency.
+
+#### Vocabulary & Grammar
+- **Vocabulary (Health)**: obesity, prevention, nutrition, lifestyle, fitness, treatment, diet, exercise, health, illness.
+  - Example: “
